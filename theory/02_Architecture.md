@@ -27,10 +27,10 @@ Related
 - 06_Data_Model.md
 - 07_Brain.md
 - 08_Intelligence.md
-- 09_Capability.md
-- 10_Workflow.md
-- 11_Guide.md
-- 12_Workspace.md
+- 10_Capability.md
+- 11_Workflow.md
+- 12_Guide.md
+- 13_Workspace.md
 
 ---
 

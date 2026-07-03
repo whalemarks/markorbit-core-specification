@@ -1,4 +1,4 @@
-# 09 Capability
+# 10 Capability
 
 > **The Professional Capability System of the Trademark Universe**
 
@@ -22,8 +22,8 @@ Depends
 
 Related
 
-- 10_Workflow.md
-- 11_Guide.md
+- 11_Workflow.md
+- 12_Guide.md
 
 ---
 

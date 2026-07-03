@@ -22,7 +22,7 @@ Depends
 Related
 
 - 08_Intelligence.md
-- 09_Capability.md
+- 10_Capability.md
 
 ---
 

@@ -17,10 +17,11 @@ This directory contains the theory layer for the MarkOrbit Core Specification. I
 - [Data Model](06_Data_Model.md)
 - [Brain](07_Brain.md)
 - [Intelligence](08_Intelligence.md)
-- [Capability](09_Capability.md)
-- [Workflow](10_Workflow.md)
-- [Guide](11_Guide.md)
-- [Workspace](12_Workspace.md)
+- [Business](09_Business.md)
+- [Capability](10_Capability.md)
+- [Workflow](11_Workflow.md)
+- [Guide](12_Guide.md)
+- [Workspace](13_Workspace.md)
 
 ## Navigation
 

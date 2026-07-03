@@ -24,7 +24,7 @@ Related
 - 06_Data_Model.md
 - 07_Brain.md
 - 08_Intelligence.md
-- 09_Capability.md
+- 10_Capability.md
 
 ---
 
