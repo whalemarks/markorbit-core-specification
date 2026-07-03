@@ -68,6 +68,39 @@ PATCH versions never change architecture.
 
 ---
 
+# v2.1.0 RC1
+
+Release Date
+
+2026-07
+
+Status
+
+Release Candidate
+
+---
+
+## Overview
+
+Core Specification v2.1 RC1 aligns the repository after introducing Mo Business.
+
+---
+
+## Added
+
+- Architecture Amendment 001 — Introduce Mo Business Layer
+- ADR-004 — Introduce Mo Business Layer
+- Introduction of Mo Business
+- 550_Business module
+
+---
+
+## Architecture
+
+Mo Business is introduced as the Business Evaluation layer.
+
+---
+
 # v2.0.0
 
 Release Date

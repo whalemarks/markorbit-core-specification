@@ -13,6 +13,7 @@ This directory contains the canonical MarkOrbit Core Specification. Each subdire
 - [Persistence](300_Persistence/README.md)
 - [Brain](400_Brain/README.md)
 - [Intelligence](500_Intelligence/README.md)
+- [Business](550_Business/README.md)
 - [Capability](600_Capability/README.md)
 - [Guide](700_Guide/README.md)
 - [Workflow](800_Workflow/README.md)

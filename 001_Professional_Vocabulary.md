@@ -218,6 +218,86 @@ Avoid
 
 ---
 
+# Business Vocabulary
+
+## Mo Business
+
+Definition
+
+The architectural layer responsible for Business Evaluation.
+
+Preferred
+
+Mo Business
+
+
+---
+
+## Business Evaluation
+
+Definition
+
+The interpretation of observable facts as business significance.
+
+Preferred
+
+Business Evaluation
+
+
+---
+
+## Business Evidence
+
+Definition
+
+Observable factual evidence used for Business Evaluation.
+
+Preferred
+
+Business Evidence
+
+
+---
+
+## Evaluation Target
+
+Definition
+
+The object or context being evaluated by Mo Business.
+
+Preferred
+
+Evaluation Target
+
+
+---
+
+## Evaluation Dimension
+
+Definition
+
+A business perspective used to evaluate an Evaluation Target.
+
+Preferred
+
+Evaluation Dimension
+
+
+---
+
+## Business Product
+
+Definition
+
+The published Product of Mo Business.
+
+Preferred
+
+Business Product
+
+
+---
+
 # Canonical Models
 
 Preferred
