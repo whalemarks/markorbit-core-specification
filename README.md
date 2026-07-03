@@ -54,11 +54,15 @@ Facts
 
 ↓
 
-Understanding
+Professional Understanding
 
 ↓
 
-Judgment
+Business Evaluation
+
+↓
+
+Intelligent Reasoning
 
 ↓
 
@@ -116,7 +120,7 @@ Implementations remain replaceable.
 
 # Professional Operating System
 
-The MarkOrbit Professional Operating System consists of six professional layers operating inside one organizational context.
+The MarkOrbit Professional Operating System consists of seven professional layers operating inside one organizational context.
 
 ```text
 Platform
@@ -132,6 +136,8 @@ Professional Operating System
     Persistence
 
     Brain
+
+    Business
 
     Intelligence
 
@@ -151,6 +157,24 @@ The Professional Operating System remains universal.
 ---
 
 # Architecture
+
+The Core Architecture relationship is:
+
+```text
+Mo Data
+
+↓
+
+Mo Brain
+
++
+
+Mo Business
+
+↓
+
+Mo Intelligence
+```
 
 ## Persistence
 
@@ -172,9 +196,21 @@ Question answered:
 
 ---
 
+## Business
+
+Responsible for Business Evaluation.
+
+Mo Business evaluates the business significance of facts as the Business Evaluation Layer.
+
+Question answered:
+
+> **What is its business value?**
+
+---
+
 ## Intelligence
 
-Responsible for professional reasoning and judgment.
+Responsible for intelligent reasoning and judgment.
 
 Question answered:
 
@@ -299,6 +335,7 @@ Specification domains:
 - [Core Foundation](specification/200_Core_Foundation/README.md)
 - [Persistence](specification/300_Persistence/README.md)
 - [Brain](specification/400_Brain/README.md)
+- [Business](specification/550_Business/README.md)
 - [Intelligence](specification/500_Intelligence/README.md)
 - [Capability](specification/600_Capability/README.md)
 - [Guide](specification/700_Guide/README.md)
@@ -358,6 +395,10 @@ Persistence
 
 Brain
 
++
+
+Business
+
 ↓
 
 Intelligence
@@ -414,7 +455,7 @@ Recommended order:
 
 # Architectural Principles
 
-MarkOrbit follows twelve architectural principles.
+MarkOrbit follows thirteen architectural principles.
 
 1. One Layer, One Responsibility.
 
@@ -424,21 +465,23 @@ MarkOrbit follows twelve architectural principles.
 
 4. Contracts before Implementations.
 
-5. Understanding before Judgment.
+5. Professional Understanding before Business Evaluation.
 
-6. Judgment before Action.
+6. Business Evaluation before Intelligent Reasoning.
 
-7. Action before Coordination.
+7. Intelligent Reasoning before Capability Execution.
 
-8. Coordination before Experience.
+8. Capability Execution before Context Organisation.
 
-9. Workspace before Organization.
+9. Context Organisation before Experience Delivery.
 
-10. Federation before Centralization.
+10. Workspace before Organization.
 
-11. Professional Architecture before Artificial Intelligence.
+11. Federation before Centralization.
 
-12. Evolution without Architectural Drift.
+12. Professional Architecture before Artificial Intelligence.
+
+13. Evolution without Architectural Drift.
 
 ---
 

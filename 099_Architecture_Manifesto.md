@@ -53,23 +53,27 @@ Facts
 
 ↓
 
-Understanding
+Professional Understanding
 
 ↓
 
-Judgment
+Business Evaluation
 
 ↓
 
-Action
+Intelligent Reasoning
 
 ↓
 
-Coordination
+Capability Execution
 
 ↓
 
-Experience
+Context Organisation
+
+↓
+
+Experience Delivery
 ```
 
 MarkOrbit does not invent this process.
@@ -100,15 +104,16 @@ MarkOrbit models the complete lifecycle of professional work.
 
 ---
 
-# The Six Professional Layers
+# The Professional Layers
 
-The Professional Operating System consists of six independent layers.
+The Professional Operating System consists of seven independent layers.
 
 | Layer | Responsibility | Question |
 |--------|----------------|----------|
 | Persistence | Facts | What happened? |
-| Brain | Understanding | What does it mean? |
-| Intelligence | Judgment | What should we conclude? |
+| Brain | Professional Understanding | What does it mean professionally? |
+| Business | Business Evaluation | What is it worth commercially? |
+| Intelligence | Intelligent Reasoning | What should be done next? |
 | Capability | Action | What should we do? |
 | Workflow | Coordination | How should work be organized? |
 | Guide | Experience | How should professional work be experienced? |
@@ -257,30 +262,34 @@ Layers never depend upon implementation details.
 
 # Separation of Concerns
 
-Professional architecture separates six independent concerns.
+Professional architecture separates seven independent concerns.
 
 ```text
 Facts
 
 ↓
 
-Understanding
+Professional Understanding
 
 ↓
 
-Judgment
+Business Evaluation
 
 ↓
 
-Action
+Intelligent Reasoning
 
 ↓
 
-Coordination
+Capability Execution
 
 ↓
 
-Experience
+Context Organisation
+
+↓
+
+Experience Delivery
 ```
 
 Each concern evolves independently.
@@ -330,7 +339,7 @@ Collaboration occurs only through explicit contracts.
 
 # Architectural Principles
 
-The MarkOrbit Professional Operating System follows twelve universal principles.
+The MarkOrbit Professional Operating System follows thirteen universal principles.
 
 1. One Layer, One Responsibility.
 
@@ -340,21 +349,23 @@ The MarkOrbit Professional Operating System follows twelve universal principles.
 
 4. Contracts before Implementations.
 
-5. Understanding before Judgment.
+5. Professional Understanding before Business Evaluation.
 
-6. Judgment before Action.
+6. Business Evaluation before Intelligent Reasoning.
 
-7. Action before Coordination.
+7. Intelligent Reasoning before Capability Execution.
 
-8. Coordination before Experience.
+8. Capability Execution before Context Organisation.
 
-9. Workspace before Organization.
+9. Context Organisation before Experience Delivery.
 
-10. Federation before Centralization.
+10. Workspace before Organization.
 
-11. Professional Architecture before Artificial Intelligence.
+11. Federation before Centralization.
 
-12. Evolution without Architectural Drift.
+12. Professional Architecture before Artificial Intelligence.
+
+13. Evolution without Architectural Drift.
 
 ---
 

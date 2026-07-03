@@ -55,12 +55,21 @@ Responsibilities must never overlap.
 Current responsibilities are:
 
 - Persistence — Facts
-- Brain — Understanding
-- Intelligence — Judgment
+- Brain — Professional Understanding
+- Business — Business Evaluation
+- Intelligence — Intelligent Reasoning
 - Capability — Action
 - Workflow — Coordination
 - Guide — Experience
 - Workspace — Organizational Context
+
+Business Evaluation belongs exclusively to Mo Business.
+
+Professional Understanding belongs exclusively to Mo Brain.
+
+Intelligent Reasoning belongs exclusively to Mo Intelligence.
+
+No responsibility overlap is permitted.
 
 ---
 
