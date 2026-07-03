@@ -23,7 +23,7 @@ Depends
 Related
 
 - 150_Event_Specification.md
-- 300_Data_Specification.md
+- 300_Persistence_Specification.md
 - 800_Workflow_Specification.md
 
 ---

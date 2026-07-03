@@ -24,7 +24,7 @@ Related
 - 210_Actor_Specification.md
 - 230_Reference_Specification.md
 - 240_Document_Specification.md
-- 250_Business_Entity_Specification.md
+- 250_Business_Object_Specification.md
 
 ---
 

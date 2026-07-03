@@ -17,8 +17,8 @@ Depends
 - MarkOrbit Core Foundation v1.3
 - README.md
 - CONSTITUTION.md
-- docs/02_Architecture.md
-- docs/04_Ontology.md
+- theory/02_Architecture.md
+- theory/04_Ontology.md
 
 Related
 

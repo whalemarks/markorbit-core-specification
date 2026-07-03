@@ -24,9 +24,9 @@ Related
 
 - 210_Actor_Specification.md
 - 220_Asset_Specification.md
-- 230_Event_Entity_Specification.md
+- 150_Event_Specification.md
 - 240_Document_Specification.md
-- 250_Business_Entity_Specification.md
+- 250_Business_Object_Specification.md
 
 ---
 

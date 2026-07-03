@@ -284,35 +284,28 @@ Products expose stable contracts.
 
 # Repository Structure
 
-```text
-099_Architecture_Manifesto.md
+- [Constitution](CONSTITUTION.md)
+- [Professional Vocabulary](001_Professional_Vocabulary.md)
+- [Naming Convention](002_Naming_Convention.md)
+- [Document Style](003_Document_Style.md)
+- [Architecture Manifesto](099_Architecture_Manifesto.md)
+- [Theory](theory/README.md)
+- [Specification](specification/README.md)
+- [Docs](docs/README.md)
 
-100_Engineering_Kernel.md
+Specification domains:
 
-110_...
-120_...
-...
+- [Engineering Kernel](specification/100_Engineering_Kernel/README.md)
+- [Core Foundation](specification/200_Core_Foundation/README.md)
+- [Persistence](specification/300_Persistence/README.md)
+- [Brain](specification/400_Brain/README.md)
+- [Intelligence](specification/500_Intelligence/README.md)
+- [Capability](specification/600_Capability/README.md)
+- [Guide](specification/700_Guide/README.md)
+- [Workflow](specification/800_Workflow/README.md)
+- [Workspace](specification/900_Workspace/README.md)
 
-200_Core_Foundation/
-
-300_Persistence/
-
-400_Brain/
-
-500_Intelligence/
-
-600_Capability/
-
-700_Guide/
-
-800_Workflow/
-
-900_Workspace/
-
-1000_Platform/
-```
-
-Every directory represents one architectural domain.
+Every specification directory represents one architectural domain.
 
 Each domain follows the same internal pattern.
 

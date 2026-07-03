@@ -138,11 +138,11 @@ Examples
 
 100_Engineering_Kernel.md
 
-410_Brain_Object.md
+410_Brain_Object_Specification.md
 
-620_Execution_Model.md
+620_Execution_Model_Specification.md
 
-730_Experience_Network.md
+730_Experience_Network_Specification.md
 ```
 
 Rules

@@ -20,7 +20,7 @@ Depends
 
 Related
 
-- 740_Guide_Product.md
+- 740_Guide_Product_Specification.md
 - 800_Workflow_Specification.md
 - 900_Workspace_Specification.md
 

@@ -20,7 +20,7 @@ Depends
 Related
 
 - 120_Identity_Specification.md
-- 200_Entity_Specification.md
+- 200_Entity_Definition_Specification.md
 - 400_Brain_Specification.md
 - 600_Capability_Specification.md
 - 800_Workflow_Specification.md

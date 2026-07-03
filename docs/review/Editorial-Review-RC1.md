@@ -130,10 +130,10 @@ The specification filenames consistently use three-digit prefixes and Pascal_Cas
 
 Many Depends and Related entries use shortened filenames, such as:
 
-- `410_Brain_Object.md`
-- `420_Knowledge_Model.md`
-- `430_Knowledge_Graph.md`
-- `440_Knowledge_Product.md`
+- `410_Brain_Object_Specification.md`
+- `420_Knowledge_Model_Specification.md`
+- `430_Knowledge_Graph_Specification.md`
+- `440_Knowledge_Product_Specification.md`
 
 The actual files include `_Specification`, such as:
 
@@ -148,13 +148,13 @@ This is the most common cross-reference inconsistency and should be resolved bef
 
 Several dependency entries refer to files that do not exist in the current repository structure:
 
-- `200_Entity_Specification.md`
-- `300_Data_Specification.md`
-- `250_Business_Entity_Specification.md`
-- `230_Event_Entity_Specification.md`
+- `200_Entity_Definition_Specification.md`
+- `300_Persistence_Specification.md`
+- `250_Business_Object_Specification.md`
+- `150_Event_Specification.md`
 - `1000_Platform_Specification.md`
-- `docs/02_Architecture.md`
-- `docs/04_Ontology.md`
+- `theory/02_Architecture.md`
+- `theory/04_Ontology.md`
 
 These references appear to be legacy names or planned files. They should be corrected to current canonical filenames or explicitly listed as missing/future documents.
 
@@ -239,18 +239,18 @@ The most frequent unresolved references were:
 
 | Unresolved Reference | Count |
 |---|---:|
-| `300_Data_Specification.md` | 14 |
-| `200_Entity_Specification.md` | 12 |
-| `440_Knowledge_Product.md` | 8 |
-| `740_Guide_Product.md` | 8 |
-| `640_Capability_Product.md` | 8 |
-| `540_Intelligence_Product.md` | 8 |
-| `430_Knowledge_Graph.md` | 6 |
-| `730_Experience_Network.md` | 6 |
-| `630_Capability_Network.md` | 6 |
-| `250_Business_Entity_Specification.md` | 6 |
-| `530_Decision_Graph.md` | 6 |
-| `620_Execution_Model.md` | 5 |
+| `300_Persistence_Specification.md` | 14 |
+| `200_Entity_Definition_Specification.md` | 12 |
+| `440_Knowledge_Product_Specification.md` | 8 |
+| `740_Guide_Product_Specification.md` | 8 |
+| `640_Capability_Product_Specification.md` | 8 |
+| `540_Intelligence_Product_Specification.md` | 8 |
+| `430_Knowledge_Graph_Specification.md` | 6 |
+| `730_Experience_Network_Specification.md` | 6 |
+| `630_Capability_Network_Specification.md` | 6 |
+| `250_Business_Object_Specification.md` | 6 |
+| `530_Decision_Graph_Specification.md` | 6 |
+| `620_Execution_Model_Specification.md` | 5 |
 
 The pattern is clear: dependency references often omit `_Specification`, while actual filenames include it.
 
@@ -258,8 +258,8 @@ The pattern is clear: dependency references often omit `_Specification`, while a
 
 Two references point to a `docs/` path that is not present in the repository:
 
-- `docs/02_Architecture.md`
-- `docs/04_Ontology.md`
+- `theory/02_Architecture.md`
+- `theory/04_Ontology.md`
 
 Equivalent theory documents appear to exist:
 
@@ -331,29 +331,29 @@ The following referenced files were not found as exact filenames or paths:
 
 ## Likely renamed files
 
-- `200_Entity_Specification.md`
-- `300_Data_Specification.md`
-- `410_Brain_Object.md`
-- `420_Knowledge_Model.md`
-- `430_Knowledge_Graph.md`
-- `440_Knowledge_Product.md`
-- `510_Intelligence_Object.md`
-- `520_Reasoning_Model.md`
-- `530_Decision_Graph.md`
-- `540_Intelligence_Product.md`
-- `610_Capability_Object.md`
-- `620_Execution_Model.md`
-- `630_Capability_Network.md`
-- `640_Capability_Product.md`
-- `710_Guide_Object.md`
-- `720_Interaction_Model.md`
-- `730_Experience_Network.md`
-- `740_Guide_Product.md`
+- `200_Entity_Definition_Specification.md`
+- `300_Persistence_Specification.md`
+- `410_Brain_Object_Specification.md`
+- `420_Knowledge_Model_Specification.md`
+- `430_Knowledge_Graph_Specification.md`
+- `440_Knowledge_Product_Specification.md`
+- `510_Intelligence_Object_Specification.md`
+- `520_Reasoning_Model_Specification.md`
+- `530_Decision_Graph_Specification.md`
+- `540_Intelligence_Product_Specification.md`
+- `610_Capability_Object_Specification.md`
+- `620_Execution_Model_Specification.md`
+- `630_Capability_Network_Specification.md`
+- `640_Capability_Product_Specification.md`
+- `710_Guide_Object_Specification.md`
+- `720_Interaction_Model_Specification.md`
+- `730_Experience_Network_Specification.md`
+- `740_Guide_Product_Specification.md`
 
 ## Likely legacy or renamed foundation files
 
-- `230_Event_Entity_Specification.md`
-- `250_Business_Entity_Specification.md`
+- `150_Event_Specification.md`
+- `250_Business_Object_Specification.md`
 
 Possible current equivalents:
 
@@ -368,8 +368,8 @@ If Platform is outside Core Specification RC1 scope, it should be referenced as 
 
 ## Incorrect path references
 
-- `docs/02_Architecture.md`
-- `docs/04_Ontology.md`
+- `theory/02_Architecture.md`
+- `theory/04_Ontology.md`
 
 Possible current equivalents:
 
@@ -387,7 +387,7 @@ Update Depends and Related entries to exact canonical filenames.
 Examples:
 
 ```text
-410_Brain_Object.md
+410_Brain_Object_Specification.md
 ```
 
 should become:
@@ -487,13 +487,13 @@ The README is strong and readable. Suggested refinements:
 
 - Correct unresolved Depends and Related references to exact existing filenames.
 - Resolve references to missing or legacy files:
-  - `200_Entity_Specification.md`
-  - `300_Data_Specification.md`
-  - `250_Business_Entity_Specification.md`
-  - `230_Event_Entity_Specification.md`
+  - `200_Entity_Definition_Specification.md`
+  - `300_Persistence_Specification.md`
+  - `250_Business_Object_Specification.md`
+  - `150_Event_Specification.md`
   - `1000_Platform_Specification.md`
-  - `docs/02_Architecture.md`
-  - `docs/04_Ontology.md`
+  - `theory/02_Architecture.md`
+  - `theory/04_Ontology.md`
 - Decide whether Platform references are external/future or missing from RC1.
 
 ## P1 — Release quality improvements

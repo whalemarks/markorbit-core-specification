@@ -20,10 +20,10 @@ Depends
 
 Related
 
-- 510_Intelligence_Object.md
-- 520_Reasoning_Model.md
-- 530_Decision_Graph.md
-- 540_Intelligence_Product.md
+- 510_Intelligence_Object_Specification.md
+- 520_Reasoning_Model_Specification.md
+- 530_Decision_Graph_Specification.md
+- 540_Intelligence_Product_Specification.md
 - 600_Capability_Specification.md
 
 ---

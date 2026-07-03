@@ -20,9 +20,8 @@ Draft
 
 ## Related
 
-- 840_Workflow_Product.md
+- 840_Workflow_Product_Specification.md
 - 900_Workspace_Specification.md
-- 1000_Platform_Specification.md
 
 ---
 

@@ -20,7 +20,7 @@ Depends
 
 Related
 
-- 640_Capability_Product.md
+- 640_Capability_Product_Specification.md
 - 800_Workflow_Specification.md
 - 900_Workspace_Specification.md
 

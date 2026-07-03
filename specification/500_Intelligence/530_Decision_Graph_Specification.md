@@ -20,7 +20,7 @@ Depends
 
 Related
 
-- 540_Intelligence_Product.md
+- 540_Intelligence_Product_Specification.md
 - 600_Capability_Specification.md
 
 ---

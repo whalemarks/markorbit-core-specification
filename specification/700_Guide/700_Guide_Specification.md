@@ -22,10 +22,10 @@ Depends
 
 Related
 
-- 710_Guide_Object.md
-- 720_Interaction_Model.md
-- 730_Experience_Network.md
-- 740_Guide_Product.md
+- 710_Guide_Object_Specification.md
+- 720_Interaction_Model_Specification.md
+- 730_Experience_Network_Specification.md
+- 740_Guide_Product_Specification.md
 - 800_Workflow_Specification.md
 
 ---

@@ -21,9 +21,9 @@ Draft
 
 ## Related
 
-- 820_Orchestration_Model.md
-- 830_Workflow_Network.md
-- 840_Workflow_Product.md
+- 820_Orchestration_Model_Specification.md
+- 830_Workflow_Network_Specification.md
+- 840_Workflow_Product_Specification.md
 - 900_Workspace_Specification.md
 
 ---

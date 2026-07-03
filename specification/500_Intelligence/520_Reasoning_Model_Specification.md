@@ -20,8 +20,8 @@ Depends
 
 Related
 
-- 530_Decision_Graph.md
-- 540_Intelligence_Product.md
+- 530_Decision_Graph_Specification.md
+- 540_Intelligence_Product_Specification.md
 - 600_Capability_Specification.md
 
 ---
