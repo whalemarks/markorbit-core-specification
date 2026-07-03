@@ -19,9 +19,8 @@ Draft
 
 ## Related
 
-- 930_Workspace_Network.md
-- 940_Workspace_Product.md
-- 1000_Platform_Specification.md
+- 930_Workspace_Network_Specification.md
+- 940_Workspace_Product_Specification.md
 
 ---
 

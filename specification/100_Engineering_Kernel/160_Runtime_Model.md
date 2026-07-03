@@ -24,7 +24,7 @@ Depends
 Related
 
 - 170_Contract_Model.md
-- 200_Entity_Specification.md
+- 200_Entity_Definition_Specification.md
 - 600_Capability_Specification.md
 - 700_Guide_Specification.md
 - 800_Workflow_Specification.md

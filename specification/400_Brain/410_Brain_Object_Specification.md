@@ -22,9 +22,9 @@ Depends
 
 Related
 
-- 420_Knowledge_Model.md
-- 430_Knowledge_Graph.md
-- 440_Knowledge_Product.md
+- 420_Knowledge_Model_Specification.md
+- 430_Knowledge_Graph_Specification.md
+- 440_Knowledge_Product_Specification.md
 - 500_Intelligence_Specification.md
 
 ---

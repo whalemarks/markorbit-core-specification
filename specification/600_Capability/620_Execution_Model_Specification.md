@@ -20,8 +20,8 @@ Depends
 
 Related
 
-- 630_Capability_Network.md
-- 640_Capability_Product.md
+- 630_Capability_Network_Specification.md
+- 640_Capability_Product_Specification.md
 - 800_Workflow_Specification.md
 
 ---

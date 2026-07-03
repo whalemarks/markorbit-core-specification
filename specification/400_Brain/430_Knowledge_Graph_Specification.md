@@ -20,7 +20,7 @@ Depends
 
 Related
 
-- 440_Knowledge_Product.md
+- 440_Knowledge_Product_Specification.md
 - 500_Intelligence_Specification.md
 
 ---

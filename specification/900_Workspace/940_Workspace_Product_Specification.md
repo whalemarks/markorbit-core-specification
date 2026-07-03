@@ -22,7 +22,6 @@ Draft
 
 ## Related
 
-- 1000_Platform_Specification.md
 
 ---
 

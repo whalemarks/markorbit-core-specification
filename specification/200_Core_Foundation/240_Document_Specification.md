@@ -24,7 +24,7 @@ Related
 - 210_Actor_Specification.md
 - 220_Asset_Specification.md
 - 230_Reference_Specification.md
-- 300_Data_Specification.md
+- 300_Persistence_Specification.md
 - 400_Brain_Specification.md
 - 800_Workflow_Specification.md
 

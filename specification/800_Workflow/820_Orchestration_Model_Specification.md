@@ -21,8 +21,8 @@ Draft
 
 ## Related
 
-- 830_Workflow_Network.md
-- 840_Workflow_Product.md
+- 830_Workflow_Network_Specification.md
+- 840_Workflow_Product_Specification.md
 - 900_Workspace_Specification.md
 
 ---

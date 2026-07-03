@@ -22,7 +22,7 @@ Related
 
 - 130_Relationship_Specification.md
 - 140_Timeline_Specification.md
-- 200_Entity_Specification.md
+- 200_Entity_Definition_Specification.md
 
 ---
 

@@ -20,8 +20,8 @@ Depends
 
 Related
 
-- 730_Experience_Network.md
-- 740_Guide_Product.md
+- 730_Experience_Network_Specification.md
+- 740_Guide_Product_Specification.md
 - 800_Workflow_Specification.md
 
 ---

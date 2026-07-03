@@ -22,8 +22,8 @@ Depends
 Related
 
 - 140_Timeline_Specification.md
-- 200_Entity_Specification.md
-- 300_Data_Specification.md
+- 200_Entity_Definition_Specification.md
+- 300_Persistence_Specification.md
 
 ---
 

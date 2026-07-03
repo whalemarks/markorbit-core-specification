@@ -21,10 +21,10 @@ Depends
 
 Related
 
-- 610_Capability_Object.md
-- 620_Execution_Model.md
-- 630_Capability_Network.md
-- 640_Capability_Product.md
+- 610_Capability_Object_Specification.md
+- 620_Execution_Model_Specification.md
+- 630_Capability_Network_Specification.md
+- 640_Capability_Product_Specification.md
 - 700_Guide_Specification.md
 - 800_Workflow_Specification.md
 

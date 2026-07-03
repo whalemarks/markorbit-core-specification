@@ -21,8 +21,8 @@ Depends
 
 Related
 
-- 200_Entity_Specification.md
-- 300_Data_Specification.md
+- 200_Entity_Definition_Specification.md
+- 300_Persistence_Specification.md
 - 400_Brain_Specification.md
 - 500_Intelligence_Specification.md
 - 600_Capability_Specification.md

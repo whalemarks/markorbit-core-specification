@@ -23,7 +23,7 @@ Related
 
 - 220_Asset_Specification.md
 - 240_Document_Specification.md
-- 300_Data_Specification.md
+- 300_Persistence_Specification.md
 - 400_Brain_Specification.md
 
 ---

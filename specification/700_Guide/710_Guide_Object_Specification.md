@@ -20,9 +20,9 @@ Depends
 
 Related
 
-- 720_Interaction_Model.md
-- 730_Experience_Network.md
-- 740_Guide_Product.md
+- 720_Interaction_Model_Specification.md
+- 730_Experience_Network_Specification.md
+- 740_Guide_Product_Specification.md
 - 900_Workspace_Specification.md
 
 ---
